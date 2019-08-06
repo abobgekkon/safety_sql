@@ -1,6 +1,6 @@
 'Copyright (c) 2019, S.N. Pastuhov'
 'Apache License, Version 2.0'
-abobgekko@gmail.com
+abobgekkon@gmail.com
 
 Программа предназначена для хранения паролей в базе данных sqlite3.
 Шифрование данных происходит "на лету", с помощью rsa.
